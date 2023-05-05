@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi Guys 👋
+#### Currently CUHK AI, year 1 Student 
+Working on some AI, NLP projects, feel free to contact me.
+
+
 
 <!--
 **Mysterchan/Mysterchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
