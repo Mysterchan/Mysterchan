@@ -1,5 +1,5 @@
 # Hi Guys 👋
-#### Currently CUHK AI, year 1 Student 
+#### Currently CUHK AI, year 2 Student 
 Working on some AI, NLP projects, feel free to contact me.
 
 
